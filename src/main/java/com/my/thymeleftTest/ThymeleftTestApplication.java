@@ -1,3 +1,4 @@
+
 package com.my.thymeleftTest;
 
 import org.springframework.boot.SpringApplication;
